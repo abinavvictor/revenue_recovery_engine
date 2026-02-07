@@ -1,4 +1,4 @@
-# Sentinel Recover: AI Revenue Recovery Engine 
+# Sentinel Recover: REVENUE RECOVERY ENGINE 
 
 Sentinel Recover is an autonomous SELF CORRECTING agentic workflow designed for banking and fintech sectors to investigate transaction disputes. 
 
