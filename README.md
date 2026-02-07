@@ -1,6 +1,6 @@
 # Sentinel Recover: REVENUE RECOVERY ENGINE 
 
-Sentinel Recover is an autonomous SELF CORRECTING multi agentic workflow designed for banking and fintech sectors to investigate transaction disputes. 
+Sentinel Recover is an autonomous SELF CORRECTING multi agentic workflow designed for remediating charge back conflicts with a resolve to recover revenue for Large Financial Institutions(LFI)
 
 # Mission: 
 Deploying an autonomous multi-agent system that reconciles e-commerce disputes by cross-referencing real-time logistics data against internal transaction records to automate "Compelling Evidence" generation to resolve a claim.
