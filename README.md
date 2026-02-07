@@ -60,4 +60,6 @@ uv run python -m main
 # Future Enhancements
 Incorporate MultiContext Protocol(MCP) to find and read through the DB sources without SQL Alchemy
 
-Developed by Abhinav Victor Korati. Building the future of autonomous financial auditing.
+Building the future of autonomous resolution of charge disputes with self correcting intelligent agents
+
+Conceieved , designed and developed by Abhinav K Victor
