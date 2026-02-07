@@ -1,0 +1,11 @@
+﻿# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+
+# Secrets
+.env
+
+# Data
+*.json
+*.sqlite
