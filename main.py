@@ -43,7 +43,7 @@ async def run_revenuerecovery_engine():
                     "mcp_session": session,
                     "stripe_session": session,
                     "db_session": session,
-                    "mcp_tools": tools,          # ✅ pre-loaded tools
+                    "mcp_tools": tools,         
                     "history": [],
                     "messages": [],
                     "retry_count": 0,
