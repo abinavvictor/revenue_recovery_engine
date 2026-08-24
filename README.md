@@ -1,4 +1,4 @@
-# Sentinel Recover: REVENUE RECOVERY ENGINE 
+# Deterministic-LLM Hybrid Orchestration for Autonomous Revenue Recovery:A Custom MCP Approach to Financial Chargeback Dispute Resolution
 
 Revenue Recovery Engine is an autonomous SELF CORRECTING multi agentic workflow designed for remediating charge back conflicts with a resolve to recover revenue for Large Financial Institutions(LFI)
 
